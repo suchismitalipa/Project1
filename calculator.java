@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /*This is commited to 2nd branch*/
+=======
+/*this is a commit in the first branch */
+>>>>>>> branch1
 import java.util.Scanner;
 
  public class calculator
