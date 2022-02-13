@@ -1,7 +1,6 @@
 /*This is used for interactive branch testing 1*/
 /*This is commited to 2nd branch*/
 /*this is a commit in the first branch */
-/*This is a test for Tag */
 import java.util.Scanner;
 
  public class calculator
@@ -30,7 +29,7 @@ import java.util.Scanner;
                          res = a + b;
                          System.out.print("Result = " + res);
 	                 break;
-	 /*this is for subtraction*/		 
+	 /*this is for subtracion*/		 
 	      case '2' : System.out.print("Enter Two Number : ");
 	                 a = scan.nextFloat();
 	                 b = scan.nextFloat();
