@@ -1,4 +1,4 @@
-
+/*This is used for interactive branch testing 1*/
 /*This is commited to 2nd branch*/
 /*this is a commit in the first branch */
 /*This is a test for Tag */
@@ -23,6 +23,7 @@ import java.util.Scanner;
            choice = scan.next().charAt(0);
            switch(choice)
             {
+	/*this is for addition*/		    
               case '1' : System.out.print("Enter Two Number : ");
                          a = scan.nextFloat();
                          b = scan.nextFloat();
