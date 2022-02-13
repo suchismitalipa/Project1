@@ -29,7 +29,8 @@ import java.util.Scanner;
                          b = scan.nextFloat();
                          res = a + b;
                          System.out.print("Result = " + res);
-	                 break;															                       
+	                 break;
+	 /*this is for subtraction*/		 
 	      case '2' : System.out.print("Enter Two Number : ");
 	                 a = scan.nextFloat();
 	                 b = scan.nextFloat();
